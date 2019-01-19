@@ -2,7 +2,7 @@
   "name": "counter-with-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/counter-with-redux",
+  "homepage": "https://nomangul.github.io/counter-with-redux",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
